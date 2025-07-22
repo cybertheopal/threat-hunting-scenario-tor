@@ -77,7 +77,7 @@ DeviceFileEvents
 ## Created By:
 - **Author Name**: Opal Ratanayatigune
 - **Author Contact**: https://www.linkedin.com/in/opal-ratanayatigune/
-- **Date**: July 21, 2025
+- **Date**: July 23, 2025
 
 ## Validated By:
 - **Reviewer Name**: 
@@ -94,4 +94,4 @@ DeviceFileEvents
 ## Revision History:
 | **Version** | **Changes**                   | **Date**         | **Modified By**   |
 |-------------|-------------------------------|------------------|-------------------|
-| 1.0         | Initial draft                  | `July 21, 2025`  | `Opal Ratanayatigune`   
+| 1.0         | Initial draft                  | `July 23, 2025`  | `Opal Ratanayatigune`   
