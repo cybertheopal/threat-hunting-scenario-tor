@@ -39,7 +39,7 @@ DeviceFileEvents
 |project Timestamp, DeviceName, ActionType, FileName, FolderPath, SHA256, Account = InitiatingProcessAccountName
 |order by Timestamp desc
 ```
-<img src="https://imgur.com/CTbtNhx.png">
+<img src="https://imgur.com/dB0KjZg.png">
 
 ---
 
