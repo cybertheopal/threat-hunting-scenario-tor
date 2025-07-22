@@ -45,7 +45,7 @@ DeviceFileEvents
 
 ### 2. Searched the `DeviceProcessEvents` Table
 
-Searched for any `ProcessCommandLine` that contained the string "tor-browser-windows-x86_64-portable-14.5.4.exe". Based on the logs returned, at `2025-07-14T17:31:55.6509567Z`, the user 'opal' on the device "win10-vm-opal" device ran the file `tor-browser-windows-x86_64-portable-14.5.4.exe` from their Downloads folder, using a command that triggered a silent installation.
+Searched for any `ProcessCommandLine` that contained the string "tor-browser-windows-x86_64-portable-14.5.4.exe". Based on the logs returned, at `2025-07-15T22:41:23.4418591Z`, the user 'opal' on the device "win10-vm-opal" device ran the file `tor-browser-windows-x86_64-portable-14.5.4.exe` from their Downloads folder, using a command that triggered a silent installation.
 
 **Query used to locate event:**
 
@@ -56,7 +56,7 @@ DeviceProcessEvents
 | where ProcessCommandLine contains "tor-browser-windows-x86_64-portable-14.5.4.exe"  
 | project Timestamp, DeviceName, AccountName, ActionType, FileName, FolderPath, SHA256, ProcessCommandLine
 ```
-<img src="https://imgur.com/zTf3Fdw.png">    
+<img src="https://imgur.com/k915bU1.png">    
 
 ---
 
