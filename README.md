@@ -143,7 +143,7 @@ DeviceNetworkEvents
 - **Action:** File creation detected.
 - **File Path:** `C:\Users\labuseropal\Desktop\tor-shopping-list.txt`
 
----
+--
 
 ## Summary
 
