@@ -4,7 +4,7 @@
 # Threat Hunt Report: Unauthorized TOR Usage
 - [Scenario Creation](https://github.com/cybertheopal/threat-hunting-scenario-tor/blob/main/threat-hunting-scenario-tor-event-creation.md)
 
-## Platforms and Languages Leveraged
+## Platforms and Languages Leverage
 - Windows 10 Virtual Machines (Microsoft Azure)
 - EDR Platform: Microsoft Defender for Endpoint
 - Kusto Query Language (KQL)
